@@ -1,2 +1,2 @@
 # CodeClauseInternship_Speech_Emotion_Recognition
-In proggess
+In progress
